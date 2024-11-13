@@ -30,11 +30,11 @@
 
 <br>
 
-![Odair Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=darcula)
+![Odair Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=islude8&show_icons=true&theme=darcula)
 
 <br>
 
-![Top Langs Odair Souza](https://github-readme-stats.vercel.app/api/top-langs/?username=islude8&langs_count=8)
+![Top Langs Odair Souza](https://github-readme-stats.vercel.app/api/top-langs/?username=islude8&langs_count=8&theme=darcula)
           
           
           
