@@ -3,7 +3,6 @@
 
 ### Full Stack & Android Developer
 
-### Um pouco do que sei ...
 
 <br>
 
